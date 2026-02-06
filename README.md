@@ -1,9 +1,52 @@
-Hi, I am Fizzah Farooq.
-A dedicated **Data Science student at COMSATS University Islamabad**,
-currently in my 4th semester.
-I am passionate about **data analysis,  machine learning,** and **uncovering insights from complex datasets.**
-Always eager to learn and grow, I am exploring new tools and techniques to sharpen my skills in the field of data science. 
-My goal is to work on meaningful projects that use data to drive innovation and solve real-world challenges.
+# Hi, I’m Fizzah Farooq.
+
+**Aspiring Data Scientist | BS Data Science Student at COMSATS University Islamabad**  
+📍 Islamabad, Pakistan | 📧 fizzahfarooq1064@gmail.com  
+
+
+---
+
+## 🌟 About Me
+ 
+I’m passionate about **data-driven problem solving**, building **machine learning models**, and creating **smart automation solutions**.  
+
+I love turning **raw data into actionable insights**, experimenting with **AI & NLP**, and working on projects that **make a real-world impact**.  
+
+Always curious, always learning — I thrive on exploring new tools, technologies, and ways to push the boundaries of data science.  
+
+
+---
+
+## 💻 Skills
+**Languages:** Python | Java | C++ | SQL  
+**Libraries/Frameworks:** Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Streamlit | Selenium  
+**Tools & Platforms:** MySQL | MongoDB | Git | GitHub | APIs  
+**Concepts:** ETL Pipelines | Data Cleaning | Machine Learning | NLP  
+
+---
+
+## 🚀 Projects
+### Chicago Crime Data Analysis
+- Built an **ETL pipeline** for 500k+ crime records.  
+- Performed **SQL analysis** and **KMeans clustering** to detect crime hotspots.  
+
+### Resume Critic Pro – AI Resume Tool
+- Developed an **AI-based resume analysis tool** using NLP.  
+- Detected grammar errors, skill gaps, and gave **career recommendations**.  
+
+### WhatsApp Automation System
+- Automated **bulk WhatsApp messaging** using Java & Selenium.  
+- Implemented **QR-based login** for secure automation.  
+
+---
+
+## 📜 Certifications
+- **Data Science Essentials with Python** – Cisco (2026)  
+- **AI Ignite Week Challenge** – Qubit Dynamics (2025)  
+- **Data Science & Analytics** – HP LIFE (2025)  
+
+---
+
 
 ## Connect With Me:
 
